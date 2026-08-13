@@ -2,19 +2,36 @@
 
 ## Regular Weekly Schedule
 
-**Monday**
+### Monday
 - 10:00 am – 2:00 pm
-- Location: Home / remote
-- Focus Bear internship work
+- Location: Remote
+- Planned work: Frontend development / assigned internship tasks
 
-**Tuesday**
+### Tuesday
 - 10:00 am – 2:00 pm
-- Location: Home / remote
-- 4:00 pm – Frontend stand-up
+- Location: Remote
+- 4:00 pm – Frontend team stand-up
+- Planned work: Frontend development / assigned internship tasks
 
-**Thursday**
+### Thursday
 - 10:00 am – 2:00 pm
-- Location: Home / remote
-- 4:00 pm – Frontend stand-up
+- Location: Remote
+- 4:00 pm – Frontend team stand-up
+- Planned work: Frontend development / assigned internship tasks
 
-Expected weekly commitment: approximately 12 hours of individual work, with stand-up meetings on relevant days.
+Approximate weekly commitment: 12 hours of individual work, plus stand-up meetings.
+
+## Schedule Exceptions
+
+### Week of December 21st – 27th
+- Reduced schedule due to Christmas.
+- Planned hours will be adjusted around team availability and public holidays.
+
+### Week of December 28th – January 3rd
+- Reduced schedule due to the New Year period.
+- Planned hours will be adjusted around team availability and public holidays.
+
+### Remaining Weeks
+- Regular Monday, Tuesday and Thursday schedule resumes.
+
+The internship is currently expected to conclude in early March 2027.
